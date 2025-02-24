@@ -1,4 +1,4 @@
- 👋 Hi, I’m @priyanshu6729
+ 👋 Hi there, I’m Priyanshu Raj
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning DSA in C++
 - 📫 Can reach me at - rajp58425@gmail.com
