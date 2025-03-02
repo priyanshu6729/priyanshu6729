@@ -1,6 +1,5 @@
  👋 Hi there, I’m Priyanshu Raj
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning DSA in C++
+- 🌱 I’m currently learning MERN Development
 - 📫 Can reach me at - rajp58425@gmail.com
 
 <!---
