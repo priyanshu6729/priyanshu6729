@@ -6,9 +6,8 @@
 - 📫 How to reach me: <a href="mailto:rajp58425@gmail.com">Email Address</a>
 
 ## Check out my other accounts
-<a href="www.linkedin.com/in/priyanshu-raj-972302289" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg" height=45 width=45> </a>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/priyanshu-raj-972302289)
+<a href="https://www.linkedin.com/in/priyanshu-raj-972302289" style="text-decoration: none;"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linkedin/linkedin-original.svg" height=45 width=45> </a>
 
 
 ## Languages and Tools
