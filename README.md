@@ -21,7 +21,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/express/express-original.svg" height=45 width=45>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg" height=45 width=45>
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg" height=45 width=45>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/canva/canva-original.svg"  height=45 width=45>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu6729&show_icons=true&theme=tokyonight)
