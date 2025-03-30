@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning MERN
-- 💬 Ask me about C++, NodeJS, MongoDB, ExpressJS
+- 💬 Ask me about C++,ReactJs, NodeJS, MongoDB, ExpressJS
 - 📫 How to reach me: <a href="mailto:rajp58425@gmail.com">Email Address</a>
 
 ## Check out my other accounts
