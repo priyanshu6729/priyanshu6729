@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MERN
 - 💬 Ask me about C++, NodeJS, MongoDB, ExpressJS
 - 📫 How to reach me: <a href="mailto:rajp58425@gmail.com">Email Address</a>
 
