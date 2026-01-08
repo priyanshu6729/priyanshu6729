@@ -65,15 +65,22 @@ const priyanshu = {
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshu6729&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu6729&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=priyanshu6729" alt="GitHub Streak" /></a>
+### Contribution Graph
+<a href="https://github.com/priyanshu6729">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshu6729&theme=radical" alt="Contribution Graph"/>
+</a>
+
+### Commit Stats
+<a href="https://github.com/priyanshu6729">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshu6729&theme=radical&utcOffset=5.5" alt="Commit Stats"/>
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=priyanshu6729&color=blueviolet&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
