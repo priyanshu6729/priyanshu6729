@@ -16,7 +16,7 @@
 const priyanshu = {
     location: "India 🇮🇳",
     currentlyLearning: ["MERN Stack", "System Design", "DSA"],
-    askMeAbout: ["C++", "ReactJS", "NodeJS", "MongoDB", "ExpressJS"],
+    askMeAbout: ["Python", "ReactJS", "NodeJS", "MongoDB", "ExpressJS"],
     funFact: "I debug with console.log() 🐛"
 };
 ```
