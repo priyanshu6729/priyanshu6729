@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Developer | MERN Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+Full+Stack+Applications;Learning+MERN+Stack;Exploring+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+Full+Stack+Applications;Learning+Artificial+Intelligence;Exploring+New+Technologies" alt="Typing SVG" />
 
 </div>
 
@@ -15,7 +15,7 @@
 ```javascript
 const priyanshu = {
     location: "India 🇮🇳",
-    currentlyLearning: ["MERN Stack", "System Design", "DSA"],
+    currentlyLearning: ["Python", "AI", "System Design", "DSA"],
     askMeAbout: ["Python", "ReactJS", "NodeJS", "MongoDB", "ExpressJS"],
     funFact: "I debug with console.log() 🐛"
 };
